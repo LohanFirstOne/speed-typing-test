@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap");
+:root {
+	/* Neutral */
+	--neutral900: #121212;
+	--neutral800: #262626;
+	--neutral500: #717178;
+	--neutral400: #949497;
+	--neutral0: #ffffff;
+
+	/* Blue */
+	--Blue600: #177dff;
+	--Blue400: #4ca6ff;
+
+	/* Red */
+	--Red500: #d64d5b;
+
+	/* Green */
+	--Green500: #4dd67b;
+
+	/* Yellow */
+	--Yellow400: #f4dc73;
+}
+
+.text-preset1 {
+	font-family: "Sora", sans-serif;
+	font-size: 40px;
+	line-height: 136%;
+	letter-spacing: 0.4px;
+	font-weight: 700;
+}
+
+.text-preset1-mobile {
+	font-family: "Sora", sans-serif;
+	font-size: 24px;
+	line-height: 120%;
+	letter-spacing: 0.32px;
+	font-weight: 700;
+}
+
+.text-preset1-regular {
+	font-family: "Sora", sans-serif;
+	font-size: 40px;
+	line-height: 136%;
+	letter-spacing: 0.4px;
+	font-weight: 400;
+}
+
+.text-preset1-regular-mobile {
+	font-family: "Sora", sans-serif;
+	font-size: 32px;
+	line-height: 136%;
+	letter-spacing: 0.4px;
+	font-weight: 400;
+}
+
+.text-preset2 {
+	font-family: "Sora", sans-serif;
+	font-size: 24px;
+	line-height: 100%;
+	letter-spacing: 0.6px;
+	font-weight: 700;
+}
+
+.text-preset3 {
+	font-family: "Sora", sans-serif;
+	font-size: 20px;
+	line-height: 120%;
+	letter-spacing: -0.6px;
+	font-weight: 400;
+}
+
+.text-preset3-mobile {
+	font-family: "Sora", sans-serif;
+	font-size: 16px;
+	line-height: 120%;
+	letter-spacing: -0.48px;
+	font-weight: 400;
+}
+
+.text-preset3-semibold {
+	font-family: "Sora", sans-serif;
+	font-size: 20px;
+	line-height: 120%;
+	letter-spacing: -0.3px;
+	font-weight: 600;
+}
+
+.text-preset4 {
+	font-family: "Sora", sans-serif;
+	font-size: 18px;
+	line-height: 120%;
+	letter-spacing: -0.6px;
+	font-weight: 400;
+}
+
+.text-preset5 {
+	font-family: "Sora", sans-serif;
+	font-size: 16px;
+	line-height: 120%;
+	letter-spacing: -0.48px;
+	font-weight: 400;
+}
+
+.text-preset6 {
+	font-family: "Sora", sans-serif;
+	font-size: 12px;
+	line-height: 120%;
+	letter-spacing: 0px;
+	font-weight: 400;
+}
+
